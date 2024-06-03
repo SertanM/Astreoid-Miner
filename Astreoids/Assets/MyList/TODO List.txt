@@ -1,0 +1,14 @@
+New Frienemies
+	Bomb Enemy: It's follow the player.
+	Space Ship Enemy:It's have a range and if the player in his range it will be shoot the player.
+	Level Up Coin:It's incredeably fast and if player touch this coin it's give a random level up item.
+	Astereoids with hearth like player: 3, 2 it should be editable.
+
+Events:
+	20 asteroid event
+
+Level Up Cards:
+	Bible of The Kingdom:
+	Repair toolkit: It's give player a 1 hearth.
+	More Shoot: It's give a one more shoot.
+	
